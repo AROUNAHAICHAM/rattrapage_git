@@ -1,0 +1,4 @@
+a) la principale différence entre git fetch et git pull est que git fetch récupère les modifications du repository distant sans les fusionner dans votre code local, tandis que git pull fait une récupération et fusionne automatiquement les modifications dans votre code local.
+b) revenir au commit precedent
+c)la supprimer sur le poste local et faire u pull request vers le serveur
+d)git log
